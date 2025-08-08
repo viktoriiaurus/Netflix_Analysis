@@ -72,5 +72,4 @@ You can explore the interactive version on [Tableau Public](https://public.table
 - **US-based productions** lead by a wide margin, with notable contributions from India and the UK
 - Content growth peaked in **2018**, with a subsequent stabilization
 - **Drama and Comedy** remain evergreen genres, consistently leading across the platform
-- Shorter TV show formats (2 seasons) might reflect changes in audience engagement preferences
 - This analysis framework can be adapted for **content strategy** and **regional production planning**
