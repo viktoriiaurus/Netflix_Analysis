@@ -18,7 +18,7 @@ Performed a full cleaning process to ensure data consistency and accuracy:
 - Removed duplicate rows to ensure uniqueness
 - Processed **Genres** directly in Tableau using a calculated field
 
-  [Data cleaning sql file](your-tableau-public-link)
+  [Data cleaning sql file](data_cleaning.sql)
 
 ---
 
