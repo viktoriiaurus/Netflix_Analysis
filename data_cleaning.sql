@@ -1,10 +1,8 @@
--- DATA CLEANING SCRIPT FOR NETFLIX DATASET
-
 SELECT COUNT(*) AS total_rows FROM netflix_titles;
 
 SELECT * FROM netflix_titles LIMIT 100;
 
--- 1. Check for NULLs
+-- Check for NULLs
 SELECT
   COUNT(*) FILTER (WHERE show_id IS NULL OR show_id = '') AS null_show_id,
   COUNT(*) FILTER (WHERE type IS NULL OR type = '') AS null_type,
@@ -48,7 +46,7 @@ WHERE date_added IS NULL;
 SELECT COUNT(*) AS total_cleaned_rows FROM netflix_titles;
 
 
--- 2. Standardizing text data: trimming spaces and unifying capitalization styles 
+-- Standardizing text data: trimming spaces and unifying capitalization styles 
 
 UPDATE netflix_titles
 SET type = INITCAP(TRIM(type))
