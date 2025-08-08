@@ -63,7 +63,7 @@ The dashboard focuses on exploring Netflix’s **global content structure** and 
 ![Netflix Dashboard Preview](Content%20Types%20Analysis.png)
 ![Netflix Dashboard Preview](Genre%20Analysis.png)
 
-You can explore the interactive version on **[Tableau Public]([your-tableau-public-link](https://public.tableau.com/views/NetflixAnalysis_17544774090480/ContentTypesAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**.
+You can explore the interactive version on [Tableau Public](https://public.tableau.com/views/NetflixAnalysis_17544774090480/ContentTypesAnalysis?:language=en-US&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ---
 
